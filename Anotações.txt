@@ -1,0 +1,16 @@
+comandos git
+
+git clone + link do repositório do GitHub para clonar o repositório na máquina local
+
+ls para lisar os arquivos
+
+cd + nome do repositório para entrar na pasta do repositório
+
+git status verifica se tem arquivo novo 
+
+git add . para adicionar os arquivo ao controle de versão 
+
+git commit -m "" para criar um commit local com uma mensagem entre ""
+
+git pushi origin main para enviar os commit para a nuvem 
+
